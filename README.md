@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Researches
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im graduating in Computacion Science
+- ⚡ Fun fact: Im graduating in Computacional Science
 
 <!---
 Newtares/Newtares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
