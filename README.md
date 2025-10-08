@@ -28,12 +28,8 @@
 
 <br/>
 
-<a href="https://github.com/Isaac-SL" title="Perfil do Isaac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-soares-9aa895246/)]((https://www.linkedin.com/in/isaac-soares-9aa895246/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacleitesoares@gmail.com)](mailto:isaacleitesoares@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/Isaac-SL))
+[![Linkedin](https://img.shields.io/badge/-Isaac-Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-soares-9aa895246/)]((https://www.linkedin.com/in/isaac-soares-9aa895246/))
+[![Gmail Badge](https://img.shields.io/badge/-isaacleitesoares@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacleitesoares@gmail.com)](mailto:isaacleitesoares@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Isaac-SL?label=follow&style=social)]((https://github.com/Isaac-SL))
